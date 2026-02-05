@@ -6,7 +6,7 @@ package com.mycompany.tdddemo;
 
 /**
  *
- * @author ishan
+ * @author ishan-git-test
  */
 public class Calculator {
 
