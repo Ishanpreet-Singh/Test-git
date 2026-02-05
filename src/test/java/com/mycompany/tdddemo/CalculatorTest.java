@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author ishan
+ * @author ishan - gittest
  */
 public class CalculatorTest {
     
