@@ -22,7 +22,6 @@ public class CalculatorTest {
         assertEquals(2, c.divide(4,2));
     }
     
-    
 
     
 }
